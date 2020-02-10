@@ -25,3 +25,4 @@ after mErging B2
 after creating branch 3
 //>>>>>>> master
 issue fixed #6
+modified offline
