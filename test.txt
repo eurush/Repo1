@@ -24,3 +24,4 @@ on BRANCH___changes in same line____ 2222
 after mErging B2
 after creating branch 3
 //>>>>>>> master
+issue fixed #6
