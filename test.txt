@@ -14,5 +14,5 @@ new line 33
 ffbfbfdfbdbf
 END
 hello this test i repeat this is just a test 
-on BRANCH___changes in same line____ 2222
-after mErging B2
+on BRANCH___changes are made here1 in same line____ 2222
+after mErging B2 and here2
